@@ -1,37 +1,4 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Rony 
-@URL: https://themeforest.net/user/dreemsthemes
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: Brillian
-@Author: Rony
-@Developed By: Rony
-@Developer URL: https://themeforest.net/user/dreemsthemes
-
-@Default Styles
-
-Table of Content:
-01/ Variables
-02/ predefin
-03/ header
-04/ search
-05/ slider
-06/ button
-07/ about 
-08/ latest-news
-09/ work 
-10/ blog
-11/ contact 
-12/ error 
-13/ footer
-=====================================================================*/
-/*----------------------------------------------------*/
-/*font Variables*/
 /*Color Variables*/
 @import url("https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700|Montserrat:100,200,300,400,400i,500,500i,600,700,800,900|Playfair+Display:400,400i,700,700i,900");
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
@@ -1659,7 +1626,7 @@ input:-webkit-autofill {
 .blog_news_inner {
   background: #faf8f7;
   padding-top: 90px;
-  padding-bottom: 270px;
+  padding-bottom: 90px;
 }
 
 .blog_news_inner .blog_view_area {
